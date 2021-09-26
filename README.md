@@ -1,6 +1,8 @@
 # observable_jupyter
-<p align="center">
 
+<b><i>This repository has been archived, and is now maintained [here](https://github.com/thomasballinger/observable-jupyter). </i></b>
+
+   
 <a href="https://pypi.python.org/pypi/observable_jupyter">
 <img src="https://img.shields.io/pypi/v/observable_jupyter.svg" /></a>
 </p>
